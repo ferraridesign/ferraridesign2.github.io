@@ -976,8 +976,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 0;
   line-height: 1;
   text-align: center;
-  width: 36px;
-  height: 36px;
+  width: 50px;
+  height: 38px;
   background: #fff;
   border-radius: 50%;
   transition: 0.2s linear;
@@ -1024,7 +1024,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   text-align: center;
   padding: 30px;
-  height: 90px;
+  height: 58px;
   border-radius: 0 0 3px 3px;
 }
 
