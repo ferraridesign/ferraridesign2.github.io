@@ -977,8 +977,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   opacity: 0;
   line-height: 1;
   text-align: center;
-  width: 50px;
-  height: 38px;
+  width: 3em;
+  height: 2.2em;
   background: #fff;
   border-radius: 50%;
   transition: 0.2s linear;
@@ -1002,7 +1002,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item figure .link-preview {
-  left: calc(50% - 38px);
+  left: calc(50% - 24px);
   top: calc(50% - 18px);
 }
 
